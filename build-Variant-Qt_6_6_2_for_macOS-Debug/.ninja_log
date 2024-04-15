@@ -1,0 +1,9 @@
+# ninja log v5
+7	24	1712936948719285462	/Users/sneaky/Qt/Projects/VoidRealms/build-Variant-Qt_6_6_2_for_macOS-Debug/Variant_autogen/mocs_compilation.cpp	1a6cd5677898432d
+7	24	1712936948719285462	Variant_autogen/timestamp	1a6cd5677898432d
+7	24	1712936948719285462	Variant_autogen/mocs_compilation.cpp	1a6cd5677898432d
+769	799	1712936949493378505	Variant	52ceb5448df40012
+7	24	1712936948719285462	/Users/sneaky/Qt/Projects/VoidRealms/build-Variant-Qt_6_6_2_for_macOS-Debug/Variant_autogen/timestamp	1a6cd5677898432d
+37	53	1712932335186771445	CMakeFiles/Variant.dir/Variant_autogen/mocs_compilation.cpp.o	4e492fcfdd5f5c98
+24	769	1712936949459120483	CMakeFiles/Variant.dir/main.cpp.o	b473b66947efb2f0
+29	761	1712933121910236500	CMakeFiles/Variant.dir/myclass.cpp.o	d21f2ab241b69c2c
