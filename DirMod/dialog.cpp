@@ -38,8 +38,6 @@ void Dialog::on_pushButton_clicked()
     if (name.isEmpty()) return;
 
     model->mkdir(index, name);
-
-
 }
 
 
